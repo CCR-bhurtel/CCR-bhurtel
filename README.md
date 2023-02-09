@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web 3, blockchain and postgreSQL
 - 💞️ I’m looking to collaborate on full stack projects.
 - 📫 How to reach me bhurtelshishir@gmail.com
+- <a href="https://www.shishirbhurtel.com.np/" target="_blank" rel="noreferrer"> My website </a>
 
 <!---
 CCR-bhurtel/CCR-bhurtel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
