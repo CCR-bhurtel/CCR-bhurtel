@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CCR-bhurtel
 - 👀 I’m interested in Backend web development.
-- 🌱 I’m currently learning web 3, blockchain and postgreSQL
-- 💞️ I’m looking to collaborate on full stack projects.
+- 🌱 I’m currently learning cloud computing, advance nodeJs
+- 💞️ I’m looking to collaborate on full-stack projects.
 - 📫 How to reach me bhurtelshishir@gmail.com
 - <a href="https://www.shishirbhurtel.com.np/" target="_blank" rel="noreferrer"> My website </a>
 
