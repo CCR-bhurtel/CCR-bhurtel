@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.shishirbhurtel.com.np/](https://www.shishirbhurtel.com.np/)
 
-- 📝 I regularly write articles on [https://medium.com/@bhurtelshishir](https://medium.com/@bhurtelshishir)
+- 📝 I sometimes write articles on [https://medium.com/@bhurtelshishir](https://medium.com/@bhurtelshishir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
