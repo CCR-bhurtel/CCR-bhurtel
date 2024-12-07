@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccr-bhurtel&label=Profile%20views&color=0e75b6&style=flat" alt="ccr-bhurtel" /> </p>
 
 
-- 🔭 I’m currently working on **chatapp**
-
 - 🌱 I’m currently learning **Web3, AWS, Backend design patterns, MicroServices**
 
 - 👯 I’m looking to collaborate on **backend projects**
